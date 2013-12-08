@@ -4,4 +4,4 @@
 
 далее откройте программу git bash, введите команду:
 
-git clone https://github.com/krems/philosophy.git
+  `git clone https://github.com/krems/philosophy.git`
